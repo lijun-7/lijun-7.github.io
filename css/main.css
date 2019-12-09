@@ -1739,7 +1739,8 @@ pre .javascript .function {
   display: block;
   margin: 0 auto;
   padding: 2px;
-  max-width: 120px;
+  max-width: 200px;
+  height: 200px;
   height: auto;
   border: 1px solid #eee;
 }
